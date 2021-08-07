@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+> <<<<<<< HEAD
 
 ## ##TITLE OF THE PROJECT
 
