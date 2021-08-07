@@ -28,6 +28,14 @@ This webpage helps users to order pizza from Pizzaout shop.they have differnt ca
 
 *JQUERY
 
+# ##iNSTALLATION PROCEDURE
+
+Download the zip file 
+
+extract the files to the named destination
+
+click on index.html to open PIZZAOUT webpage
+
 # ##CONTACT
 
 david.oyugi@student.moringaschool.com
