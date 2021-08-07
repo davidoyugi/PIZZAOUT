@@ -1,14 +1,13 @@
-# PIZZAOUT
+## ##TITLE
 
-# #PIZZAOUT
+PIZZAOUT
 
 
-# #AUTHOR
+# ##AUTHOR
 
 #DAVID OYUGI
 
 # #DESCRIPTION
-
 
 This webpage helps users to order pizza from Pizzaout shop.they have differnt categories and flavours to choose from. they als have different sizes and can add extra toppings and order a delivery to whichever locality they are.
 
