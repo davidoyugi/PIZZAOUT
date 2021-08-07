@@ -1,7 +1,12 @@
-## ##TITLE
+<<<<<<< HEAD
 
-PIZZAOUT
+## ##TITLE OF THE PROJECT
 
+PIZZAOUT SHOP
+
+# #TITLE OF PROJECT
+
+PIZZAOUT SHOP
 
 # ##AUTHOR
 
@@ -28,7 +33,6 @@ This webpage helps users to order pizza from Pizzaout shop.they have differnt ca
 david.oyugi@student.moringaschool.com
 
 # ##LICENCSE
-
 
 MIT License
 
