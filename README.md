@@ -1,14 +1,20 @@
-# #PIZZAOUT
+# #TITLE OF PROJECT
+
+
+PIZZAOUT SHOP
 
 
 # #AUTHOR
 
+
 #DAVID OYUGI
+
 
 # #DESCRIPTION
 
 
 This webpage helps users to order pizza from Pizzaout shop.they have differnt categories and flavours to choose from. they als have different sizes and can add extra toppings and order a delivery to whichever locality they are.
+
 
 # ##TECHNOLOGIES USED
 
@@ -21,6 +27,7 @@ This webpage helps users to order pizza from Pizzaout shop.they have differnt ca
 *JAVASCRIPT
 
 *JQUERY
+
 
 # ##CONTACT
 
